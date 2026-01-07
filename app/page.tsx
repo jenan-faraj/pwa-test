@@ -1,4 +1,4 @@
-import NotificationTest from './components/NotificationTest';
+import NotificationTest from "./components/NotificationTest";
 
 export default function Home() {
   return (
